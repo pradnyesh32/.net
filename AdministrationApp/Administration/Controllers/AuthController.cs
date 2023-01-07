@@ -19,7 +19,14 @@ public class AuthController : Controller
     }
 
 
-public IActionResult Register(string name,string email ,string password)
+public IActionResult Register()
+    {
+        
+
+        return View();
+    }
+
+    public IActionResult Add(string name,string email ,string password)
     {
         try{
             string fileName=@"C:\Abhijit\dotnetlab\AdministrationApp\Administration\Controllers\admin.json";
@@ -30,18 +37,17 @@ public IActionResult Register(string name,string email ,string password)
             jsonAdmins.Add(ad);
 
             var options=new JsonSerializerOptions {IncludeFields=true};
-            var produtsJson=JsonSerializer.Serialize<List<Admin>>(jsonAdmins,options);
-
+            var adminJson=JsonSerializer.Serialize<List<Admin>>(jsonAdmins,options);
+            System.IO.File.WriteAllText(fileName,adminJson);
 
         }
         catch(Exception e){
 
         }
 
-        return View();
-    }
 
-
+        return Redirect("/home");
+    } 
 
 
 
@@ -56,12 +62,12 @@ public IActionResult Login()
          try{
             string fileName=@"C:\Abhijit\dotnetlab\AdministrationApp\Administration\Controllers\admin.json";
             string jsonString = System.IO.File.ReadAllText(fileName);
-            List<Admin> jsonAdmins = JsonSerializer.Deserialize<List<Admin>>(jsonString);
+            List<Admin>? jsonAdmins = JsonSerializer.Deserialize<List<Admin>>(jsonString);
            
             foreach (Admin ad in jsonAdmins)
             {
                 if(ad.Email==email && ad.Password==password){
-                    return Redirect("/home/Welcome");
+                    return Redirect("/auth/Welcome");
                 }
             }
             
