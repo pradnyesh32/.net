@@ -1,0 +1,5 @@
+C:\Abhijit\dotnetlab\OFS\OFSEntity\obj\Debug\net7.0\OFSEntity.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\OFS\OFSEntity\obj\Debug\net7.0\OFSEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\OFS\OFSEntity\obj\Debug\net7.0\OFSEntity.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\OFS\OFSEntity\obj\Debug\net7.0\OFSEntity.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\OFS\OFSEntity\obj\Debug\net7.0\OFSEntity.csproj.CoreCompileInputs.cache

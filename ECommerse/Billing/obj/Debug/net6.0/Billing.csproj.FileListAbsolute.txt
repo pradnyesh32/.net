@@ -1,0 +1,12 @@
+C:\Abhijit\dotnetlab\ECommerse\Billing\bin\Debug\net6.0\Billing.deps.json
+C:\Abhijit\dotnetlab\ECommerse\Billing\bin\Debug\net6.0\Billing.dll
+C:\Abhijit\dotnetlab\ECommerse\Billing\bin\Debug\net6.0\Billing.pdb
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\Billing.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\Billing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\Billing.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\Billing.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\Billing.csproj.CoreCompileInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\Billing.dll
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\refint\Billing.dll
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\Billing.pdb
+C:\Abhijit\dotnetlab\ECommerse\Billing\obj\Debug\net6.0\ref\Billing.dll

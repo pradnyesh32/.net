@@ -1,0 +1,12 @@
+C:\Abhijit\dotnetlab\ECommerse\Catalog\bin\Debug\net6.0\Catalog.deps.json
+C:\Abhijit\dotnetlab\ECommerse\Catalog\bin\Debug\net6.0\Catalog.dll
+C:\Abhijit\dotnetlab\ECommerse\Catalog\bin\Debug\net6.0\Catalog.pdb
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\Catalog.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\Catalog.dll
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\refint\Catalog.dll
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\Catalog.pdb
+C:\Abhijit\dotnetlab\ECommerse\Catalog\obj\Debug\net6.0\ref\Catalog.dll

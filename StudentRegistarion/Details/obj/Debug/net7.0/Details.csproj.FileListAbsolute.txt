@@ -1,0 +1,12 @@
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\bin\Debug\net7.0\Details.deps.json
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\bin\Debug\net7.0\Details.dll
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\bin\Debug\net7.0\Details.pdb
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\Details.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\Details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\Details.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\Details.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\Details.csproj.CoreCompileInputs.cache
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\Details.dll
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\refint\Details.dll
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\Details.pdb
+C:\Abhijit\dotnetlab\StudentRegistarion\Details\obj\Debug\net7.0\ref\Details.dll

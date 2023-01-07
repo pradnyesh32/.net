@@ -1,0 +1,12 @@
+C:\Abhijit\dotnetlab\Banking\BankDetails\bin\Debug\net7.0\BankDetails.deps.json
+C:\Abhijit\dotnetlab\Banking\BankDetails\bin\Debug\net7.0\BankDetails.dll
+C:\Abhijit\dotnetlab\Banking\BankDetails\bin\Debug\net7.0\BankDetails.pdb
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\BankDetails.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\BankDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\BankDetails.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\BankDetails.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\BankDetails.csproj.CoreCompileInputs.cache
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\BankDetails.dll
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\refint\BankDetails.dll
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\BankDetails.pdb
+C:\Abhijit\dotnetlab\Banking\BankDetails\obj\Debug\net7.0\ref\BankDetails.dll

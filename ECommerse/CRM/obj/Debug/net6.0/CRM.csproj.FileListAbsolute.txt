@@ -1,0 +1,12 @@
+C:\Abhijit\dotnetlab\ECommerse\CRM\bin\Debug\net6.0\CRM.deps.json
+C:\Abhijit\dotnetlab\ECommerse\CRM\bin\Debug\net6.0\CRM.dll
+C:\Abhijit\dotnetlab\ECommerse\CRM\bin\Debug\net6.0\CRM.pdb
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\CRM.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\CRM.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\CRM.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\CRM.csproj.CoreCompileInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\CRM.dll
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\refint\CRM.dll
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\CRM.pdb
+C:\Abhijit\dotnetlab\ECommerse\CRM\obj\Debug\net6.0\ref\CRM.dll

@@ -1,0 +1,12 @@
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\Membership.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\Membership.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\Membership.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\Membership.csproj.CoreCompileInputs.cache
+C:\Abhijit\dotnetlab\ECommerse\Membership\bin\Debug\net6.0\Membership.deps.json
+C:\Abhijit\dotnetlab\ECommerse\Membership\bin\Debug\net6.0\Membership.dll
+C:\Abhijit\dotnetlab\ECommerse\Membership\bin\Debug\net6.0\Membership.pdb
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\Membership.dll
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\refint\Membership.dll
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\Membership.pdb
+C:\Abhijit\dotnetlab\ECommerse\Membership\obj\Debug\net6.0\ref\Membership.dll

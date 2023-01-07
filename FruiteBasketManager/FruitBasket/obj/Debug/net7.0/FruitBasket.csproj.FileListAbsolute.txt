@@ -1,0 +1,12 @@
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\FruitBasket.csproj.AssemblyReference.cache
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\FruitBasket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\FruitBasket.AssemblyInfoInputs.cache
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\FruitBasket.AssemblyInfo.cs
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\FruitBasket.csproj.CoreCompileInputs.cache
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\bin\Debug\net7.0\FruitBasket.deps.json
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\bin\Debug\net7.0\FruitBasket.dll
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\bin\Debug\net7.0\FruitBasket.pdb
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\FruitBasket.dll
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\refint\FruitBasket.dll
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\FruitBasket.pdb
+C:\Abhijit\dotnetlab\FruiteBasketManager\FruitBasket\obj\Debug\net7.0\ref\FruitBasket.dll
